@@ -4,5 +4,6 @@ img {
 
 body {
     text-align: center;
-    font-family: "Arial";
+    font-family: Courier, Verdana;
+    font-size: 25px;
 }
