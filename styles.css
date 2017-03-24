@@ -4,6 +4,14 @@ img {
 
 body {
     text-align: center;
-    font-family: Courier, Verdana;
+    
     font-size: 25px;
+}
+
+.two {
+    font-family: Courier, Verdana;
+}
+
+.one {
+    font-family: serif;
 }
