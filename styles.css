@@ -15,3 +15,7 @@ body {
 .one {
     font-family: serif;
 }
+
+h1:hover {
+        color: red;
+    }
